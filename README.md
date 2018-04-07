@@ -1,4 +1,4 @@
-Cab-tracking-management-using-GPS-and-GSM-module-with-map-plots
+# Cab-tracking-management-using-GPS-and-GSM-module-with-map-plots
 ========
 
 Open GPS-tracker is a GPS-tracking-thing written in JavaScript and some PHP. It uses a MySQL database to save tracking data.
@@ -33,5 +33,5 @@ What you need: a web server with PHP-support.
 1.	Custom maps (optional): Custom maps can be added. You need to reproject the map to spherical mercator with gdalwarp. Edit viewer.js to match your map. If you don't want a custom map you will have to comment out various lines.
 2.	Go to /viewer/viewer.php and enjoy the tracking goodness.
 
-#**NOTE**#
+# **NOTE** 
 Refer the Project Report for all the details
