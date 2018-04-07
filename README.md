@@ -32,5 +32,6 @@ What you need: a web server with PHP-support.
 ###Viewing a track:
 1.	Custom maps (optional): Custom maps can be added. You need to reproject the map to spherical mercator with gdalwarp. Edit viewer.js to match your map. If you don't want a custom map you will have to comment out various lines.
 2.	Go to /viewer/viewer.php and enjoy the tracking goodness.
-#**NOTE**
+
+#**NOTE**#
 Refer the Project Report for all the details
